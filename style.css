@@ -1,0 +1,76 @@
+.nav {
+  margin-top: 2%;
+}
+
+.container {
+  margin-top: 3%;
+  background-color: #f3f2ed;
+}
+
+.img-fluid {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 5%;
+}
+
+.sub-heading {
+  margin-top: 15%;
+}
+
+.twocont {
+  margin-top: 25%;
+  margin-left: 20%;
+}
+
+.twocont1 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.container2 {
+  background-color: #ece4df;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.sub-heading1 {
+  margin-left: 20%;
+}
+.accordion {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.accordion-item {
+  margin-bottom: 5%;
+}
+.para1 {
+  margin-left: 15%;
+}
+
+.container3 {
+  background-color: #f3f2ed;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.inclusion {
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.girl-img {
+  margin-top: 15%;
+  margin-left: 11%;
+  width: 15px;
+}
+
+.blt {
+  margin-top: 15%;
+}
+
+.card {
+  margin-left: 5%;
+  margin-right: 5%;
+  border: none;
+  background-color: #f3f2ed;
+}
